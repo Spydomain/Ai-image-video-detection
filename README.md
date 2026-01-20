@@ -17,8 +17,8 @@
 ### Setup
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/IsItReal.git](https://github.com/yourusername/IsItReal.git)
-    cd IsItReal
+    git clone https://github.com/Spydomain/Ai-image-video-detection.git
+    cd Ai-image-video-detection
     ```
 
 2.  **Install Dependencies**
@@ -29,7 +29,7 @@
 
 3.  **Run the Tool**
     ```bash
-    python3 IsItReal_v3.py
+    python3 IsItReal.py
     ```
 
 ## 🧠 How It Works
