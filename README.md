@@ -44,7 +44,6 @@ AI models often leave specific traces in the file's binary data (XMP packets or 
 
 ## 📸 Screenshots
 
-*(You can upload the screenshots you took earlier to an 'assets' folder and link them here)*
 !<img width="942" height="754" alt="image" src="https://github.com/user-attachments/assets/e1fd8610-1376-491d-b844-9af2cc2e840d" />
 
 
