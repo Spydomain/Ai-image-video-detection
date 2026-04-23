@@ -50,5 +50,4 @@ AI models often leave specific traces in the file's binary data (XMP packets or 
 ## 🤝 Contributing
 Contributions are welcome! If you find new AI signatures or edge cases, please submit a Pull Request.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
