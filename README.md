@@ -14,7 +14,7 @@
 * **Privacy Focused:** All analysis runs locally on your machine. No files are uploaded to the cloud.
 
 # Medium Link
-https://medium.com/@spydomain1/isitreal-digital-media-forensics-ai-detection-tool-f71644b58d66?sharedUserId=spydomain1 
+[About IsItReal](https://medium.com/@spydomain/isitreal-digital-media-forensics-ai-detection-tool-f71644b58d66?sharedUserId=spydomain)
 ### Setup
 1.  **Clone the repository**
     ```bash
